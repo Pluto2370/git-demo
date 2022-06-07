@@ -9,4 +9,4 @@ hello zhou!hello git
 hello zhou!hello git
 hello zhou!hello git
 hello zhou!hello git
-hello zhou!hello git
+hello zhou!hello git hot-fix test
